@@ -1,0 +1,9 @@
+.notFoundParent{
+    margin: 50px auto;
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    background-color: gray
+}
